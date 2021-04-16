@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T11:19:56.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="SR63N_Q53kCMdg8PfboE" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-16T11:20:16.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="FtwHxXrit-uFDXjVyJ1B" version="14.6.1" type="github" pages="2">
   <diagram id="aLKNgKen_z0wWfRMWPuf" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="ikDJNxCljYhOBiGkni12-37" value="公司网关（针对不同业务分类）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="530" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ikDJNxCljYhOBiGkni12-41" value="cloud.ppdapi.com（信也云）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="ikDJNxCljYhOBiGkni12-41" value="cloud.ppdapi.com（信也云）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="260" y="600" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikDJNxCljYhOBiGkni12-42" value="文件上传服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
