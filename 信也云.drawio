@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T06:29:14.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="XrF7ePikixqwflkDMGO7" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-19T06:44:06.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="TIpwlWIoDcS6q-Em3Fnz" version="14.6.1" type="github" pages="3">
   <diagram id="aLKNgKen_z0wWfRMWPuf" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -368,6 +368,69 @@
             <mxPoint x="260" y="80" as="sourcePoint" />
             <mxPoint x="340.5" y="203.33000000000015" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hKkayOMVo87p_tvC87-X" name="Page-3">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-0" />
+        <mxCell id="pODLAELs9U-Bura1Vkkh-1" parent="pODLAELs9U-Bura1Vkkh-0" />
+        <mxCell id="pODLAELs9U-Bura1Vkkh-8" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-6" target="pODLAELs9U-Bura1Vkkh-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-6" target="pODLAELs9U-Bura1Vkkh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="130" y="160" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-7" target="pODLAELs9U-Bura1Vkkh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-7" value="模块" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-9" target="pODLAELs9U-Bura1Vkkh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-9" value="模板" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-6" target="pODLAELs9U-Bura1Vkkh-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-13" value="产品配置" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="230" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-14" target="pODLAELs9U-Bura1Vkkh-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-14" value="关联的产品配置项" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="510" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.993;exitY=0.403;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.03219460599325" y="194.6334368540007" as="sourcePoint" />
+            <mxPoint x="510" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pODLAELs9U-Bura1Vkkh-1" source="pODLAELs9U-Bura1Vkkh-19" target="pODLAELs9U-Bura1Vkkh-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-19" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="510" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-21" value="产品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="550" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pODLAELs9U-Bura1Vkkh-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="pODLAELs9U-Bura1Vkkh-1">
+          <mxGeometry x="130" y="320" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
